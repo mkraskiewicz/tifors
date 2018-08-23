@@ -90,4 +90,11 @@ body{
 
 /************************** Service provider part ******************************/
 
+.collapsible-header{
+    color: #47525E;
+    font-size: 65px;
+}
+.collapsible-body{
+     color: #47525E;
+}
 
